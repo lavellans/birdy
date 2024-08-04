@@ -1,0 +1,15 @@
+.birdy img {
+  object-fit: cover;
+   width: 100%;
+   height: 100%;
+}
+
+.birdy side {
+   width: 35%;
+   filter: grayscale(15%);
+   display: grid;
+   grid-template-columns: 120px;
+   grid-template-rows: 120px;
+   margin:
+   auto;
+}
